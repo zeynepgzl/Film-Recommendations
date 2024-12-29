@@ -8,7 +8,7 @@ from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import sigmoid_kernel
 
 # API anahtarını doğrudan koda ekliyoruz
-api_key = "0050cc5e662a24abfd8fa871587310f1"  # Kendi API anahtarınızı buraya yazın
+api_key = "your_api_key"  # Kendi API anahtarınızı buraya yazın
 
 # Veri setlerini yükleme
 credits = pd.read_csv("tmdb_5000_credits.csv")
