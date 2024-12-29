@@ -99,7 +99,7 @@ The `fuzzywuzzy` library is used to match user input with movie titles in the da
 
 ## Screenshots
 ### Main Interface
-![Movie Poster](https://github.com/lenovo/proje/film_recommendaions/main_interface.png)
+![Movie Poster](C:\Users\lenovo\Desktop\proje\Film Recommendations)
 
 
 ### Movie Recommendations
