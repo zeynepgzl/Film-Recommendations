@@ -97,16 +97,6 @@ The `fuzzywuzzy` library is used to match user input with movie titles in the da
 
 ---
 
-## Screenshots
-### Main Interface
-![Movie Poster](C:\Users\lenovo\Desktop\proje\Film Recommendations)
-
-
-### Movie Recommendations
-![Recommendations](screenshots/recommendations.png)
-
----
-
 ## Improvements & Future Work
 - Add collaborative filtering for more robust recommendations.
 - Include user ratings in the recommendation engine.
